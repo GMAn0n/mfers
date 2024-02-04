@@ -38,15 +38,15 @@ export default async function (req: VercelRequest, res: VercelResponse) {
           <head>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width" />
-            <meta property="og:title" content="You've minted Syndicate's Based Mona Lisa!" />
+            <meta property="og:title" content="Recveve Aird0rps!" />
             <meta
               property="og:image"
-              content="https://bafybeicrxexpr4bfry44e7kweraanln4orwbhupz6uphaj2otbo6m4vksu.ipfs.nftstorage.link"
+              content="https://nftstorage.link/ipfs/bafybeiaayqbanbktu6mmpcmnsxe4vhju3lx77ol4kvf4bgc7znamlziauu"
             />
             <meta property="fc:frame" content="vNext" />
             <meta
               property="fc:frame:image"
-              content="https://bafybeicrxexpr4bfry44e7kweraanln4orwbhupz6uphaj2otbo6m4vksu.ipfs.nftstorage.link"
+              content="https://nftstorage.link/ipfs/bafybeiaayqbanbktu6mmpcmnsxe4vhju3lx77ol4kvf4bgc7znamlziauu"
             />
             <meta
               property="fc:frame:button:1"
@@ -71,17 +71,17 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="og:title" content="Mint Based Mona Lisa" />
         <meta
           property="og:image"
-          content="https://bafybeif5ztccfnny7zg7nse4cqnvif3irldjmq5dhfy7wosfley5wuyzpa.ipfs.nftstorage.link"
+          content="https://nftstorage.link/ipfs/bafybeicwtmqxcsx4ld7bmqwvowlicvfw7aev3inrnjs2vjpaulown3ceze"
         />
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="https://bafybeif5ztccfnny7zg7nse4cqnvif3irldjmq5dhfy7wosfley5wuyzpa.ipfs.nftstorage.link"
+          content="https://nftstorage.link/ipfs/bafybeicwtmqxcsx4ld7bmqwvowlicvfw7aev3inrnjs2vjpaulown3ceze"
         />
-        <meta property="fc:frame:button:1" content="Mint Based Mona Lisa!" />
+        <meta property="fc:frame:button:1" content="Mint Based Bounties" />
         <meta
           name="fc:frame:post_url"
-          content="https://based-mona-lisa.vercel.app/api/syndicate-farcaster-frame-starter"
+          content="https://based-bounty.vercel.app/api/syndicate-farcaster-frame-starter"
         />
       </head>
     </html>
