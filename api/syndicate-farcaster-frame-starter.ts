@@ -50,7 +50,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
             />
             <meta
               property="fc:frame:button:1"
-              content="What's in your wallet?"
+              content="Recveve Aird0rps!"
             />
           </head>
         </html>
@@ -68,7 +68,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />
-        <meta property="og:title" content="Mint Based Mona Lisa" />
+        <meta property="og:title" content="Mint Based Bounties" />
         <meta
           property="og:image"
           content="https://nftstorage.link/ipfs/bafybeicwtmqxcsx4ld7bmqwvowlicvfw7aev3inrnjs2vjpaulown3ceze"
