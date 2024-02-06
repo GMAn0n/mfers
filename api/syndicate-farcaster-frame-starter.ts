@@ -78,8 +78,8 @@ export default async function (req: VercelRequest, res: VercelResponse) {
           property="fc:frame:image"
           content="https://bafybeieworjsq7uw7gzdcbnfz4qd7q7woa5u23qnlqwibvbx53w4y66chm.ipfs.nftstorage.link"
         />
-        <meta property="fc:frame:button:1" content="There is no Hope!" />
-        <meta property="fc:frame:button:2" content="Mi $Ddegen!" />
+        <meta property="fc:frame:button:1" content="There is Hope!" />
+        <meta property="fc:frame:button:2" content="Mi $Degen!" />
         <meta
           name="fc:frame:post_url"
           content="https://surface2air.vercel.app/api/syndicate-farcaster-frame-starter"
