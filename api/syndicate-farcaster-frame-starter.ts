@@ -71,12 +71,12 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="og:title" content="Mint Based Bounties" />
         <meta
           property="og:image"
-          content="zzzzz"
+          content="https://bafybeieworjsq7uw7gzdcbnfz4qd7q7woa5u23qnlqwibvbx53w4y66chm.ipfs.nftstorage.link"
         />
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="zzzz"
+          content="https://bafybeieworjsq7uw7gzdcbnfz4qd7q7woa5u23qnlqwibvbx53w4y66chm.ipfs.nftstorage.link"
         />
         <meta property="fc:frame:button:1" content="There is no Hope!" />
         <meta property="fc:frame:button:2" content="Mi $Ddegen!" />
