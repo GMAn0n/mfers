@@ -44,7 +44,7 @@ contract DegenBountyHunter is ERC721, Ownable {
     // You can call `transferOwnership` to do this.
     constructor() ERC721("DegenBountyHunter", "Hunter") Ownable(msg.sender) {
         // Update this with your own NFT collection's metadata
-        defaultURI = "ipfs://bafkreick6hptfg3qgm66kdkx4kscysmvxnsbgyy5vbv6y3bffzwmsth2qe";
+        defaultURI = "ipfs://bafkreifigcjkpgtmll6qvtmedix7wvq4w23aq7mo42ap2gecfhdo6lilsi";
         maxMintPerAddress = 1;
 
         // The deployer is set as an authorized minter, allowing them to set up
@@ -88,16 +88,13 @@ contract DegenBountyHunter is ERC721, Ownable {
     function tokenURI(uint256 tokenId) public view virtual override(ERC721) returns (string memory) {
       // Every 11th NFT is Glorious
     if (tokenId % 11 == 0) {
-        return "ipfs://bafkreig3v7zmsebfjnamn6txq4tlb43jgw4tsp3getqiwr2txq3w25yygu";
-    } if (tokenId % 7 == 0) {
-        // Every 5th NFT is forgiving
-        return "ipfs://bafkreialyompcszmlfcbimmvcj5kn2dd5mxfzjgot3b43qi3kdodbfi44i";
-    } else if (tokenId % 3 == 0) {
-        // Every 3rd NFT is Metallic Gold
-        return "ipfs://bafkreievi42keghrdnrhxjpztrzoe76aycmwivlmbgjrttvdvpymrff5le";
+        return "ipfs://bafkreifigcjkpgtmll6qvtmedix7wvq4w23aq7mo42ap2gecfhdo6lilsi";
+    } else if (tokenId % 7 == 0) {
+        // Every 7th NFT is Metallic Gold
+        return "ipfs://bafkreibztsc42m5rfeongzgezxab7nhe2gposzuhocjjutyrh6ix2nznse";
     } else {
         // All other NFTS stare into your sol
-        return "ipfs://bafkreick6hptfg3qgm66kdkx4kscysmvxnsbgyy5vbv6y3bffzwmsth2qe";
+        return "ipfs://bafkreie5pjcauktdgphsk4zi3sryhmewwkz6xqus6bc3qyyr66mue7xkgm";
     }
     }
     // Only the owner can set the max mint per address
