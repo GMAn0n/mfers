@@ -38,15 +38,15 @@ export default async function (req: VercelRequest, res: VercelResponse) {
           <head>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width" />
-            <meta property="og:title" content="Recveve Aird0rps!" />
+            <meta property="og:title" content="$Degen Bounty Hunter on a Mission" />
             <meta
               property="og:image"
-              content="auu"
+              content="https://bafybeiepsvevwdot6bjw2gsxzwc2345fhfghqjpubj4tbh5n6rm4urtaom.ipfs.nftstorage.link"
             />
             <meta property="fc:frame" content="vNext" />
             <meta
               property="fc:frame:image"
-              content="aaaau"
+              content="https://bafybeiepsvevwdot6bjw2gsxzwc2345fhfghqjpubj4tbh5n6rm4urtaom.ipfs.nftstorage.link"
             />
             <meta
               property="fc:frame:button:1"
