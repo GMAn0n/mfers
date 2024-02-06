@@ -41,16 +41,16 @@ export default async function (req: VercelRequest, res: VercelResponse) {
             <meta property="og:title" content="Recveve Aird0rps!" />
             <meta
               property="og:image"
-              content="https://nftstorage.link/ipfs/bafybeiaayqbanbktu6mmpcmnsxe4vhju3lx77ol4kvf4bgc7znamlziauu"
+              content="auu"
             />
             <meta property="fc:frame" content="vNext" />
             <meta
               property="fc:frame:image"
-              content="https://nftstorage.link/ipfs/bafybeiaayqbanbktu6mmpcmnsxe4vhju3lx77ol4kvf4bgc7znamlziauu"
+              content="aaaau"
             />
             <meta
               property="fc:frame:button:1"
-              content="Recveve Aird0rps!"
+              content="Trick Question!!!"
             />
           </head>
         </html>
@@ -71,17 +71,18 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="og:title" content="Mint Based Bounties" />
         <meta
           property="og:image"
-          content="https://nftstorage.link/ipfs/bafybeicwtmqxcsx4ld7bmqwvowlicvfw7aev3inrnjs2vjpaulown3ceze"
+          content="zzzzz"
         />
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="https://nftstorage.link/ipfs/bafybeicwtmqxcsx4ld7bmqwvowlicvfw7aev3inrnjs2vjpaulown3ceze"
+          content="zzzz"
         />
-        <meta property="fc:frame:button:1" content="Mint Based Bounties" />
+        <meta property="fc:frame:button:1" content="There is no Hope!" />
+        <meta property="fc:frame:button:2" content="Mi $Ddegen!" />
         <meta
           name="fc:frame:post_url"
-          content="https://based-bounty.vercel.app/api/syndicate-farcaster-frame-starter"
+          content="https://surface2air.vercel.app/api/syndicate-farcaster-frame-starter"
         />
       </head>
     </html>
