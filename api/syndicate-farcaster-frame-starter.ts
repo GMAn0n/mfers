@@ -68,7 +68,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />
-        <meta property="og:title" content="Mint Based Bounties" />
+        <meta property="og:title" content="Mint Go West Based Mfers" />
         <meta
           property="og:image"
           content="https://nftstorage.link/ipfs/bafybeicgemytx3i4pyi3cde4u3zt5qxxtr3knqqd7d4a7t7gchud7ph5y4"
