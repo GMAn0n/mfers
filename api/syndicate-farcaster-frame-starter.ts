@@ -81,7 +81,7 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="fc:frame:button:1" content="Free Mint, One Click" />
         <meta
           name="fc:frame:post_url"
-          content="https://surface2air.vercel.app/api/syndicate-farcaster-frame-starter"
+          content="https://gowestmfers.vercel.app/api/syndicate-farcaster-frame-starter"
         />
       </head>
     </html>
