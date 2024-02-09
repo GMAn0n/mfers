@@ -38,19 +38,19 @@ export default async function (req: VercelRequest, res: VercelResponse) {
           <head>
             <meta charset="utf-8" />
             <meta name="viewport" content="width=device-width" />
-            <meta property="og:title" content="$Degen Bounty Hunter on a Mission" />
+            <meta property="og:title" content="Go West Based Mfer" />
             <meta
               property="og:image"
-              content="https://bafybeiepsvevwdot6bjw2gsxzwc2345fhfghqjpubj4tbh5n6rm4urtaom.ipfs.nftstorage.link"
+              content="https://nftstorage.link/ipfs/bafybeibg5ahb42nkxnhixwcods4kco6pova7ecfobm5kdohddgu3ibqdqa"
             />
             <meta property="fc:frame" content="vNext" />
             <meta
               property="fc:frame:image"
-              content="https://bafybeiepsvevwdot6bjw2gsxzwc2345fhfghqjpubj4tbh5n6rm4urtaom.ipfs.nftstorage.link"
+              content="https://nftstorage.link/ipfs/bafybeibg5ahb42nkxnhixwcods4kco6pova7ecfobm5kdohddgu3ibqdqa"
             />
             <meta
               property="fc:frame:button:1"
-              content="Trick Question!!!"
+              content="Please Enjoy Responsbily"
             />
           </head>
         </html>
@@ -71,15 +71,14 @@ export default async function (req: VercelRequest, res: VercelResponse) {
         <meta property="og:title" content="Mint Based Bounties" />
         <meta
           property="og:image"
-          content="https://bafybeieworjsq7uw7gzdcbnfz4qd7q7woa5u23qnlqwibvbx53w4y66chm.ipfs.nftstorage.link"
+          content="https://nftstorage.link/ipfs/bafybeicgemytx3i4pyi3cde4u3zt5qxxtr3knqqd7d4a7t7gchud7ph5y4"
         />
         <meta property="fc:frame" content="vNext" />
         <meta
           property="fc:frame:image"
-          content="https://bafybeieworjsq7uw7gzdcbnfz4qd7q7woa5u23qnlqwibvbx53w4y66chm.ipfs.nftstorage.link"
+          content="https://nftstorage.link/ipfs/bafybeicgemytx3i4pyi3cde4u3zt5qxxtr3knqqd7d4a7t7gchud7ph5y4"
         />
-        <meta property="fc:frame:button:1" content="There is Hope!" />
-        <meta property="fc:frame:button:2" content="Mi $Degen!" />
+        <meta property="fc:frame:button:1" content="Free Mint, One Click" />
         <meta
           name="fc:frame:post_url"
           content="https://surface2air.vercel.app/api/syndicate-farcaster-frame-starter"
